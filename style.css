@@ -1,0 +1,52 @@
+#h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight:bold;
+font-style: italic;
+}
+
+#h2{
+    font-family: monospace;
+}
+
+#camera{
+    width:"500px";
+    height:200px;
+
+    border-color:black;
+}
+
+
+.copy_right_footer{
+    text-align: center;
+position: fixed;
+width: 100%;
+bottom: 0;
+}
+
+#result1{
+    box-shadow: 0 6px 8px 0 rgba( 2 , 2 , 2 , 0.2);
+}
+
+#result2{
+    box-shadow: 0 6px 8px 0 rgba( 2 , 2 , 2 , 0.2);
+}
+
+#result3{
+    box-shadow: 0 6px 8px 0 rgba( 2 , 2 , 2 , 0.2);
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
